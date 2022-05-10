@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Natália Granato 👋! 
-- 🌱 Aprendendo sobre Containers e Cloud Computing.
+- 🌱 Aprendendo sobre Cloud Native, Kubernetes e Observability.
 - 🤔 Estou procurando ajuda com infraestrutura em código.
 - 📫 Você pode encontrar minhas redes sociais em: https://linktr.ee/nataliagranato
 - 😄 Pronomes: Ela/Dela
