@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natália Granato</h1>
 
 
-<p align="left"> <a href="https://twitter.com/granatowp" target="blank"><img src="https://img.shields.io/twitter/follow/granatowp?logo=twitter&style=for-the-badge" alt="granatowp" /></a> </p>
-
 - 🔭 I’m currently working on [Jack Experts](https://jackexperts.com)
 
 - 🌱 I’m currently learning **Cloud Native, Kubernetes e Observability**
@@ -23,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configure um cluster Kubernetes de vários nós localmente - usando o KinD](https://dev.to/nataliagranato/configure-um-cluster-kubernetes-de-varios-nos-localmente-usando-o-kind-1l70)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
