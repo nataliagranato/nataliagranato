@@ -37,4 +37,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nataliagranato"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nataliagranato" /></a><a href="https://ko-fi.com/nataliagranato"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nataliagranato" /></a></p><br><br>
 
-<h1 align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliagranato&show_icons=true&locale=en&layout=compact" alt="nataliagranato" /></p></h1>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliagranato&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliagranato&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nataliagranato&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliagranato&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nataliagranato&theme=github_dark&utcOffset=8)
+
