@@ -3,13 +3,11 @@
 
 - 🔭 Atualmente trabalho na [Jack Experts](https://jackexperts.com)
 
-- 🌱 No momento estou aprendendo **Cloud Native, Kubernetes e Observability**
+- 🌱 Sempre aprendendo sobre **Cloud Native, Kubernetes e Observability**
 
 - 👯 Posso colaborar com você sobre **Kubernetes, Docker, CI/CD, Rundeck, Zabbix, Grafana, Oracle Cloud**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [github](https://github.com/nataliagranato) e [gitlab](https://gitlab.com/nataliagranato)
-
-- 📝 Escrevo artigos sobre tecnologia no [dev.to](https://dev.to/nataliagranato).
 
 - 📝 Escrevo artigos sobre política e história em [medium](https://medium.com/@nataliagranato).
 
