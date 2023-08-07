@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natália Granato</h1>
+<h1 align="center">Oi 👋, Eu sou Natália Granato</h1>
 
 
 - 🔭 Atualmente trabalho na [Jack Experts](https://www.jackexperts.com/) como Junior Devops.
