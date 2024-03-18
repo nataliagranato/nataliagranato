@@ -1,9 +1,8 @@
 <h1 align="center">Oi 👋, Eu sou Natália Granato</h1>
 
 
-- 🔭 Sandy Devops.
+- 🔭 DevOps Specialist
 - ✍️ Sempre aprendendo sobre Cloud Native, Kubernetes e Observability.
-- 💬 Posso colaborar com você sobre Kubernetes, Docker, CI/CD, Rundeck, Zabbix, Grafana, Prometheus Stack.
 - 📫 Você pode me encontrar nas redes [Links](https://linktr.ee/nataliagranato).
 
 
