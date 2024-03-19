@@ -6,7 +6,7 @@
 - 📫 Você pode me encontrar nas redes [Links](https://linktr.ee/nataliagranato).
 
 
-- 📫 Você pode entrar em contato pelo e-mail: **natalia.granato@jackexperts.com**
+- 📫 Você pode entrar em contato pelo e-mail: **contato@nataliagranato.xyz**
 
 - 📄 Conheça as minhas experiências [linkedin](https://www.linkedin.com/in/nataliagranato).
 
