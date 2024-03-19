@@ -10,13 +10,15 @@
 
 - 📄 Conheça as minhas experiências [linkedin](https://www.linkedin.com/in/nataliagranato).
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Criando um cluster com o Kind](https://nataliagranato.me/2023/03/09/Criando-um-cluster-com-o-Kind-localmente.html).
-- [A computação em nuvem da AWS](https://nataliagranato.me/aws/2023/06/22/A-computa%C3%A7%C3%A3o-em-nuvem-da-AWS.html).
-- [O que é o Helm?](https://nataliagranato.me/2023/03/09/O-que-%C3%A9-o-Helm.html).
-- [Explicando o Dockerfile](https://nataliagranato.me/2023/03/19/Explicando-o-Dockerfile.html).
-<!-- BLOG-POST-LIST:END -->
+### Projetos
+<!-- PROJETOS-REPO-LIST:START -->
+- [Kubesec](https://github.com/Tech-Preta/kubesec): O projeto Kubesec é uma solução abrangente para análise e relatórios de segurança em clusters Kubernetes.
+- [Kubeshell](https://github.com/Tech-Preta/kubeshell): O projeto Kubeshell é uma coleção de scripts úteis e ferramentas de linha de comando para ajudar administradores de clusters Kubernetes.
+- [Kyverno policies](https://github.com/Tech-Preta/kyverno-policies): Este repositório contém políticas (policies) para o Kyverno.
+- [Helm charts](https://github.com/Tech-Preta/charts): Este repositório contém uma coleção de Helm Charts criados ou com contribuições de Natalia Granato para diferentes aplicações.
+- [Packer base](https://github.com/Tech-Preta/packer_base): Uma base para a criação de imagens utilizando Packer, com provisionamento feito através de playbooks do Ansible.
+
+<!-- PROJETOS-REPO-LIST::END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
