@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Natália Granato</h1>
 
 
-- 🔭 DevOps Specialist
+- 🔭 DevOps and Observability Specialist
 - ✍️ Sempre aprendendo sobre Cloud Native, Kubernetes e Observability.
 - 📫 Você pode me encontrar nas redes [Links](https://linktr.ee/nataliagranato).
 
