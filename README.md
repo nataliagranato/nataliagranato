@@ -25,6 +25,8 @@
 
 ### Palestras
 <!-- PALES-REPO-LIST:START -->
+- IA para DevOps: Kubernetes Superpowers at DevOpsDays Juiz de Fora.
+- Assessment, um caminho para boas práticas em Kubernetes at DevOpsDays São Paulo and LINUXTIps.
 - [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil 2024.
 - [Assessement e Boas Práticas em Kubernetes](https://pt.slideshare.net/slideshow/assessement-boas-praticas-em-kubernetespdf/267649197) at Tech Hub Conf 2024.
 - [K8sGPT - Superpoderes na Administração Kubernetes](https://pt.slideshare.net/slideshow/k8sgpt-superpoderes-na-administrao-kubernetespptx-1387/267402712) at Jack Experts.
