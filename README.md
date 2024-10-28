@@ -1,6 +1,6 @@
 Currently, as a Site Reliability Engineer, I contribute to the development of Magalu Cloud, the Brazilian public cloud, collaborating with the open source projects: Kubernetes, Zabbix, Rundeck, Popeye, Trudesk, and OCS Inventory.
 
-[Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/nataliagranato) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [AWS Community](https://community.aws/@nataliagranato) | [Google Developer Profile](https://g.dev/nataliagranato)
+[Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/Tech-Preta) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [AWS Community](https://community.aws/@nataliagranato) | [Google Developer Profile](https://g.dev/nataliagranato)
 
 
 <h2>Support me:</h2>
