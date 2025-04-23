@@ -15,7 +15,7 @@ I promote a culture of collaboration with assertive communication and knowledge 
 
 :unicorn: [kubeprobes](https://github.com/Tech-Preta/kubeprobes) is a command-line tool (CLI) written in Go to scan Kubernetes workloads for defined probes.
 
-:unicorn: [kubecarga](https://github.com/Tech-Preta/kubecarga) This is an example of a Go load test for Kubernetes clusters. The test continuously creates deployments at regular intervals to simulate load on the cluster.
+:unicorn: [kubecarga](https://github.com/Tech-Preta/kubecarga) this is an example of a Go load test for Kubernetes clusters. The test continuously creates deployments at regular intervals to simulate load on the cluster.
 
 
 <h2>Support me:</h2>
