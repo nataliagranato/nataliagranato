@@ -4,7 +4,7 @@ I have extensive experience in CI/CD, collaboration, and experimentation, having
 
 Currently, as a Plataform Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
 
-[Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/nataliagranato) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [DevOpsDays Belo Horizonte](https://www.instagram.com/devopsdaysbhz) | [Cloud Native Juiz de Fora](https://community.cncf.io/cloud-native-juiz-de-fora/) 
+[Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/Tech-Preta) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [DevOpsDays Belo Horizonte](https://www.instagram.com/devopsdaysbhz) | [Cloud Native Juiz de Fora](https://community.cncf.io/cloud-native-juiz-de-fora/) 
 
 
 [![DevStats Card](https://devstats.me/?username=nataliagranato)](https://github.com/nataliagranato/devstats-card)
