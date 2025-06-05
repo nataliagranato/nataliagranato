@@ -1,3 +1,5 @@
+# Hi there, I'm Natália Granato 👋
+
 I am a CNCF Ambassador and Docker Captain, contributing to Kubernetes and other open-source software. I work with the DevOps culture combined with Cloud Native solutions to build Platform Engineering solutions, focusing on continuous improvement, agile software delivery, vulnerability remediation, and the adoption of best practices for provisioning, configuring, and maintaining platforms.
 
 My role is to ease the cognitive load on developers to provide solutions to make software development and provisioning more agile and easier.
@@ -8,17 +10,27 @@ I promote a culture of collaboration with assertive communication and knowledge 
 
 Currently, as a Plataform Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
 
+---
+
 [Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/Tech-Preta) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [DevOpsDays Belo Horizonte](https://www.instagram.com/devopsdaysbhz) | [Cloud Native Juiz de Fora](https://community.cncf.io/cloud-native-juiz-de-fora/) 
 
+---
+
+### Some of my open-source projects
+
+- [kubecarga](https://github.com/Tech-Preta/kubecarga): this is an example of load testing in Go for Kubernetes clusters.
+- [kubeprobes](https://github.com/Tech-Preta/kubeprobes) : is a command-line tool (CLI) written in Go to scan Kubernetes workloads for defined probes.
+- [containers and kubernetes](https://github.com/nataliagranato/containers-and-kubernetes): intensive program in containers and kubernetes.
+- [terraform intensive](https://github.com/nataliagranato/intensive-terraform): a practical, straightforward guide for professionals who want to master the art of coding infrastructure.
+
+---
 
 [![DevStats Card](https://devstats.me/?username=nataliagranato)](https://github.com/nataliagranato/devstats-card)
 
+---
 
 <h2>Support me:</h2>
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nataliagranato) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nataliagranato) 
-
-
-
 
 
