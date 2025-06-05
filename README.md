@@ -1,6 +1,10 @@
-I am a CNCF Ambassador and Docker Captain, contributing to Kubernetes and other open-source software. I transitioned from the education and telemarketing sectors to DevOps and Cloud Native, focusing on continuous improvement, agile software delivery, vulnerability remediation, and the adoption of best practices for provisioning, configuring, and maintaining platforms.
+I am a CNCF Ambassador and Docker Captain, contributing to Kubernetes and other open-source software. I work with the DevOps culture combined with Cloud Native solutions to build Platform Engineering solutions, focusing on continuous improvement, agile software delivery, vulnerability remediation, and the adoption of best practices for provisioning, configuring, and maintaining platforms.
 
-I have extensive experience in CI/CD, collaboration, and experimentation, having assisted public agencies in automating operations, freeing up time for systemic improvements. I promote a culture of collaboration with assertive communication and knowledge sharing.
+My role is to ease the cognitive load on developers to provide solutions to make software development and provisioning more agile and easier.
+
+I have extensive experience in CI/CD, infrastructure as code, observability as code, platform building, collaboration and experimentation.
+
+I promote a culture of collaboration with assertive communication and knowledge sharing.
 
 Currently, as a Plataform Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
 
