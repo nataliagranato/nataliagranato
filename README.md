@@ -8,7 +8,7 @@ I have extensive experience in CI/CD, infrastructure as code, observability as c
 
 I promote a culture of collaboration with assertive communication and knowledge sharing.
 
-Currently, as a Plataform Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
+Currently, as a Cloud Plataform Engineer at Ifood Brasil.
 
 ---
 
